@@ -1,0 +1,33 @@
+{
+    "team_name": "Pixel",
+    "students": [
+        {
+            "student_id": "k12444798",
+            "first_name": "Venkata Subhadra",
+            "last_name": "Charugalla",
+            "email": "studentforevr@gmail.com",
+            "github_user": "studentforevr-AI"
+        },
+        {
+            "student_id": "k12412809",
+            "first_name": "First",
+            "last_name": "Last",
+            "email": "first.last@mail.com",
+            "github_user": "o-lu"
+        },
+        {
+            "student_id": "k01305249",
+            "first_name": "First",
+            "last_name": "Last",
+            "email": "first.last@mail.com",
+            "github_user": "mygitusername"
+        },
+        {
+            "student_id": "k12208474",
+            "first_name": "First",
+            "last_name": "Last",
+            "email": "first.last@mail.com",
+            "github_user": "mygitusername"
+        },
+    ]
+}
