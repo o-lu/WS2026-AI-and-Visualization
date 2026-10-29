@@ -1,0 +1,25 @@
+{
+    "team_name": "Pixel",
+    "students": [
+        {
+            "first_name": "Venkata Subhadra",
+            "last_name": "Charugalla",
+            "workload": 0.25
+        },
+        {
+            "first_name": "Olya",
+            "last_name": "Last",
+            "workload": 0.25
+        }
+        {
+            "first_name": "Alex",
+            "last_name": "Last",
+            "workload": 0.25
+        }
+        {
+            "first_name": "Nico",
+            "last_name": "Last",
+            "workload": 0.25
+        }
+    ]
+}
