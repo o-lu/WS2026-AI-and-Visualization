@@ -17,17 +17,17 @@
         },
         {
             "student_id": "k01305249",
-            "first_name": "First",
-            "last_name": "Last",
-            "email": "first.last@mail.com",
-            "github_user": "mygitusername"
+            "first_name": "Alexander",
+            "last_name": " Wollanek",
+            "email": "alexander.wollanek@brghamerling.at",
+            "github_user": "allblue08"
         },
         {
             "student_id": "k12208474",
-            "first_name": "First",
-            "last_name": "Last",
-            "email": "first.last@mail.com",
-            "github_user": "mygitusername"
+            "first_name": "Nico Sami",
+            "last_name": "Diaz Cajas",
+            "email": "Nicodiaz208@gmail.com",
+            "github_user": "NicoDiaz208"
         },
     ]
 }
